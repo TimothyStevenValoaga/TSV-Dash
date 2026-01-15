@@ -1,8 +1,6 @@
 # TSV-Dash
-Github Dashboard
-cat > README.md << 'EOF'
-# 👋 Hi, I'm [Your Name]
-
+ 
+# 👋 Hi, I'm Tim Valoaga
 ## 🚀 About Me
 I'm a **Program Analyst (System Tester)** with a passion for quality assurance and cybersecurity. Currently pursuing a degree in **Cybersecurity** to expand my expertise in securing systems and applications.
 
